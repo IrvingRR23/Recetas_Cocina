@@ -1,4 +1,4 @@
-## 🧾 Recetario en Python
+🧾 Recetario en Python
 
 Este proyecto implementa un recetario interactivo desarrollado en Python, organizado por **categorías de comida**.  
 Permite realizar operaciones básicas de gestión tanto de **recetas** como de **categorías**, utilizando archivos de texto y directorios locales.
