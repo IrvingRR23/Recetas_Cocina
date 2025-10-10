@@ -13,27 +13,8 @@ Permite realizar operaciones básicas de gestión tanto de recetas como de categ
 -  **Interfaz por consola**: navegación simple e intuitiva con menús interactivos.  
 -  **Validaciones**: evita errores al crear o eliminar elementos inexistentes.  
 
----
 
-##  Estructura del proyecto
-
-Recetario/
-│
-├──  Recetas/ # Carpeta raíz donde se almacenan las categorías
-│ ├── Postres/
-│ │ ├── pastel_chocolate.txt
-│ │ └── flan.txt
-│ ├── Comidas/
-│ │ └── enchiladas.txt
-│ └── Bebidas/
-│ └── limonada.txt
-│
-├── recetario.py # Archivo principal del programa
-└── README.md # Documentación del proyecto
-
----
-
-## ⚙️ Requisitos
+## Requisitos
 
 - Python **3.8 o superior**  
 - Sistema operativo **Windows**, **Linux** o **macOS**
